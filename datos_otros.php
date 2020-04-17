@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 function dameNombre(){
@@ -7,4 +8,15 @@ function dameNombre(){
 
 	}
 
+=======
+<?php
+
+function dameNombre(){
+
+		$nombre="Maria";
+
+
+	}
+
+>>>>>>> refs/remotes/origin/master
 ?>
